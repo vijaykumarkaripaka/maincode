@@ -1,9 +1,9 @@
 # maincode
 funn
 #threads examples
-public string getname()
-public void setname(String name)
-public string getid()
+#public string getname()
+#public void setname(String name)
+#public string getid()
 
 public class threadclass extends Thread{
 public void run(){
